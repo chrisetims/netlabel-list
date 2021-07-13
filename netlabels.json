@@ -7,6 +7,108 @@
   "updated": "2020-08-21",
   "netlabels": [
     {
+  "label_name": "Happy Puppy Records",
+  "activity_state": "active",
+  "countries": [
+    "Canada"
+  ],
+  "genres": [
+  ],
+  "urls": {
+    "internet_archive": "https://archive.org/details/happypuppy?sort=-addeddate"
+  }
+}
+{
+  "label_name": "Comfort Stand Recordings",
+  "activity_state": "inactive",
+  "countries": [
+    "USA"
+  ],
+  "genres": [
+  ],
+  "urls": {
+    "internet_archive": "https://archive.org/details/comfort_stand",
+    "free_music_archive": "https://www.freemusicarchive.org/label/Comfort_Stand",
+    "homepage": "https://www.comfortstand.com"
+  }
+}
+{
+  "label_name": "Kazoomzoom",
+  "activity_state": "inactive",
+  "countries": [
+    "USA"
+  ],
+  "genres": [
+    "Children"
+  ],
+  "urls": {
+    "internet_archive": "https://archive.org/details/kazoomzoom",
+    "facebook": "https://freemusicarchive.org/label/Kazoomzoom/",
+    "free_music_archive": "https://freemusicarchive.org/label/Kazoomzoom/",
+    "homepage": "http://www.kazoomzoom.com/"
+  }
+}
+{
+  "label_name": "WM Recordings",
+  "activity_state": "inactive",
+  "countries": [
+    "Netherlands"
+  ],
+  "genres": [
+  ],
+  "urls": {
+    "internet_archive": "https://archive.org/details/wm",
+  }
+}{
+  "label_name": "You Are Not Stealing Records",
+  "activity_state": "inactive",
+  "countries": [
+    "Portugal"
+  ],
+  "genres": [
+  ],
+  "urls": {
+    "internet_archive": "https://archive.org/details/not_stealing",
+    "free_music_archive": "https://freemusicarchive.org/label/You_Are_Not_Stealing_Records",
+     "homepage": "http://youarenotstealingrecords.blogspot.com/"
+  }
+}{
+  "label_name": "SHSK'H",
+  "activity_state": "active",
+  "countries": [
+    "USA"
+  ],
+  "genres": [
+    "Modern Classical",
+    "Classical",
+    "Baroque",
+    "Asian Classical",
+    "Experimental Electronic"
+  ],
+  "urls": {
+    "twitter": "https://twitter.com/shskh",
+    "free_music_archive": "https://freemusicarchive.org/label/SHSKH",
+    "internet_archive": "https://archive.org/search.php?query=shskh"
+  }
+}{
+  "label_name": "headphonica",
+  "activity_state": "active",
+  "countries": [
+    "Germany"
+  ],
+  "genres": [
+  ],
+  "urls": {
+    "twitter": "https://twitter.com/headphonica",
+    "rss": "http://headphonica.com/feed/",
+    "internet_archive": "https://archive.org/details/yarnaudio",
+    "facebook": "https://www.facebook.com/headphonica",
+    "free_music_archive": "https://freemusicarchive.org/label/Headphonica",   
+    "soundcloud": "https://soundcloud.com/headphonica",
+    "homepage": "http://headphonica.com/"
+  }
+}
+    {
       "urls": {
         "twitter": "https://twitter.com/16dimensional",
         "rss": "http://www.16dimensional.com/wp/?feed=rss2",
